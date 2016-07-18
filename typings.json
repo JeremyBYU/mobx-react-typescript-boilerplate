@@ -1,0 +1,8 @@
+{
+  "name": "mobx-react-typescript-boilerplate",
+  "dependencies": {},
+  "globalDependencies": {
+    "material-ui": "registry:dt/material-ui#0.15.1+20160711163118",
+    "react-tap-event-plugin": "registry:dt/react-tap-event-plugin#0.0.0+20160602142434"
+  }
+}

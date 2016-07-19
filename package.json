@@ -36,6 +36,7 @@
     "mobx-react-devtools": "^4.2.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
+    "react-router": "^2.6.0",
     "react-tap-event-plugin": "^1.0.0"
   }
 }
